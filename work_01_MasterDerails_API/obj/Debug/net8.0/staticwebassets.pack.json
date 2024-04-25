@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Azman\\az\\R56\\M_10_Core_API\\Class_003\\ESAD_CS_R56_M010_D001_api\\work_01_MasterDerails_API\\wwwroot\\Images\\6384689059774820702.jpg",
+      "PackagePath": "staticwebassets\\Images\\6384689059774820702.jpg"
+    },
+    {
+      "Id": "D:\\Azman\\az\\R56\\M_10_Core_API\\Class_003\\ESAD_CS_R56_M010_D001_api\\work_01_MasterDerails_API\\wwwroot\\Images\\638469764172566296kaniz_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\638469764172566296kaniz_n.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.work_01_MasterDerails_API.props",
+      "PackagePath": "build\\work_01_MasterDerails_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.work_01_MasterDerails_API.props",
+      "PackagePath": "buildMultiTargeting\\work_01_MasterDerails_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.work_01_MasterDerails_API.props",
+      "PackagePath": "buildTransitive\\work_01_MasterDerails_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.work_01_MasterDerails_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
